@@ -16,7 +16,7 @@
     "babel-preset-stage-0": "^6.16.0",
     "css-loader": "^0.25.0",
     "standard": "^8.5.0",
-    "vue-loader": "^9.7.0",
+    "vue-loader": "^11.1.0",
     "webpack": "beta",
     "webpack2-validator": "^1.0.0"
   },
