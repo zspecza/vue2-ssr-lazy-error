@@ -6,7 +6,7 @@
     "express": "^4.14.0",
     "source-map-support": "^0.4.5",
     "vue": "^2.0.3",
-    "vue-router": "^2.0.1",
+    "vue-router": "^2.5.0",
     "vue-server-renderer": "^2.0.3"
   },
   "devDependencies": {
